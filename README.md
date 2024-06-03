@@ -26,8 +26,7 @@ This is a simple digital clock application built using HTML, CSS, and JavaScript
 
 3. **Install dependencies using npm.**
    ```sh
-npm install
-
+   npm install
 4. **Start the development server.**
    ```sh
    npm start
